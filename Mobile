@@ -1,1 +1,5 @@
 mobile/src/components/.gitkeep
+mobile/src/screens/.gitkeep
+mobile/src/navigation/.gitkeep
+mobile/src/services/.gitkeep
+mobile/src/utils/.gitkeep
